@@ -3,11 +3,11 @@
 ##The Big Picture
 **HTML (HyperText Markup Language)** is the underlying structure for a web page. It's comparable to the human body in that it has a head and a body. Between the `<head></head>` tags is where we store information about the site, such as the title. Tags are the way we speak (or type, rather) HTML to the computer. Computers only understand a certain language if you use the proper [**syntax**](http://www.webopedia.com/TERM/S/syntax.html). Tags are part of the HTML syntax. You'll see plenty of them as we dig deeper.
 
-After the `<head>` area of the document comes the `<body>`. The body tag also has a closing tag, closing tags are denoted by the forward slash that comes before the tag name, i.e., `</body>`. Almost all HTML tags will need a closing tag, although some do not, we'll cover those in more detail later on.
+After the `<head>` area of the document comes to the `<body>`. The body tag also has a closing tag, closing tags are denoted by the forward slash that comes before the tag name. i.e., `</body>`. Almost all HTML tags will need a closing tag, although some do not, i.e., `<br>`, `<b>`, and many more. we'll cover those in more detail later on.
 
 When we place content between opening and closing tags, we are **wrapping** the content with those tags, i.e., `<title>This is a Title</title>`. Here we have wrapped the title of the site "This is a Title" in opening and closing title tags.
 
-Overall, HTML is plain looking, similar to a typical word document. This is where CSS comes in. We use **CSS (Cascading Style Sheets)** to make it look visually appealing, this process is referred to as **styling**. 
+Overall, HTML is plain looking, similar to a typical word document. This is where CSS comes in. We use **CSS (Cascading Style Sheets)** to make it look visually appealing and also we can say more user friendly, this process is referred to as **styling**. 
 > CSS is designed primarily to enable the separation of document content from document presentation [(1)](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 Styling makes use of **selectors** to select an element from the page and give it some formatting. We'll explore CSS further, but first let's talk a little more about HTML. I'll be reviewing each of the elements from the following lists and demoing them so you can follow along visually.
