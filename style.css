@@ -10,7 +10,7 @@ html, body {
 }
 
 header {
-	background-color: grey;
+	background-image: url("https://i2.wp.com/voiceofslum.org/wp-content/uploads/2016/01/donate-header-overlay-black-1.png?ssl=1");
 	padding: 15px;
 	overflow: auto;
 }
@@ -21,6 +21,7 @@ header div.container {
 }
 
 .col1 {
+	padding-left: 60px; 
 	float: left;
 }
 
@@ -50,7 +51,7 @@ header p {
 }
 
 nav {
-	background-color: #000;
+	background-color: #444;
 	text-align: center;
 	height: 40px;
 	line-height: 40px;
@@ -59,11 +60,12 @@ nav {
 	nav ul {
 		margin: 0;
 		list-style-type: none;
+		padding-right: 140px;
 	}
 
 	nav li {
 		display: inline;
-		padding: 15px;
+		padding: 30px;
 	}
 
 	nav li:hover {
@@ -89,13 +91,13 @@ section aside {
 	float: right;
 	width: 15%;
 	padding: 10px;
-	background-color: #444;
+	background-color: #4444;
 	height: 100vh;
-	color: #fff;
+	color: #000;
 }
 
 	section aside a {
-		color: #fff;
+		color: #000;
 	}
 
 footer {
