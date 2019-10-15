@@ -3,7 +3,7 @@
 ##The Big Picture
 **HTML (HyperText Markup Language)** is the underlying structure for a web page. It's comparable to the human body in that it has a head and a body. Between the `<head></head>` tags is where we store information about the site, such as the title. Tags are the way we speak (or type, rather) HTML to the computer. Computers only understand a certain language if you use the proper [**syntax**](http://www.webopedia.com/TERM/S/syntax.html). Tags are major part of the HTML syntax. You'll see plenty of them as we dig deeper.
 
-After the `<head>` area of the document comes the `<body>`. The body tag also has a closing tag, closing tags are denoted by the forward slash (**/**) that comes before the tag name, i.e., `</body>`. Almost all HTML tags will need a closing tag, although some do not i.e. `<br>`, `<b>`, and many more such tags are available. we'll cover those in more detail later on.
+After the `<head>` area of the document comes the `<body>`. The body tag also has a closing tag, closing tags are denoted by the forward slash ( **/** ) that comes before the tag name, i.e., `</body>`. Almost all HTML tags will need a closing tag, although some do not i.e. `<br>`, `<b>`, and many more such tags are available. we'll cover those in more detail later on.
 
 When we place content between opening and closing tags, we are **wrapping** the content with those tags, i.e., `<title>This is a Title</title>`. Here we have wrapped the title of the site "This is a Title" in opening and closing title tags.
 
